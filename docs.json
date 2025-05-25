@@ -23,12 +23,7 @@
           {
             "group": "Tính Năng",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/personal"
             ]
           }
         ]
@@ -50,7 +45,7 @@
         {
           "anchor": "Website",
           "href": "https://fullvh.com",
-          "icon": "book-open-cover"
+          "icon": "web-awesome"
         },
         {
           "anchor": "Discord",
@@ -60,7 +55,7 @@
         {
           "anchor": "Group Facebook",
           "href": "https://www.facebook.com/groups/fullvh",
-          "icon": "newspaper"
+          "icon": "facebook"
         }
       ]
     }
@@ -80,13 +75,6 @@
       "type": "button",
       "label": "Dashboard",
       "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
 }
