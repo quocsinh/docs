@@ -23,8 +23,8 @@
           {
             "group": "Tính Năng",
             "pages": [
-              "essentials/personal",
-              "essentials/dialogue"
+              "essentials/dialogue",
+              "essentials/personal"
             ]
           }
         ]
