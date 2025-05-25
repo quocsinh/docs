@@ -16,8 +16,8 @@
           {
             "group": "Bắt Đầu",
             "pages": [
-              "start/index",
-              "start/quickstart"
+              "index",
+              "quickstart"
             ]
           },
           {
