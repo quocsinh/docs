@@ -24,7 +24,8 @@
             "group": "Tính Năng",
             "pages": [
               "essentials/dialogue",
-              "essentials/personal"
+              "essentials/personal",
+              "essentials/named"
             ]
           }
         ]
