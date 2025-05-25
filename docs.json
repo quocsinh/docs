@@ -34,21 +34,12 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Changelog",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Cập Nhật",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "changelog"
             ]
           }
         ]
