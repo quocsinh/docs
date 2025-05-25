@@ -7,14 +7,14 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Hướng Dẫn",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Bắt Đầu",
             "pages": [
               "index",
               "quickstart",
@@ -76,14 +76,14 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo-square.png",
+    "dark": "/logo/logo-square.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://www.facebook.com/fullvhcom"
       }
     ],
     "primary": {
