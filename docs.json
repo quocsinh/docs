@@ -16,14 +16,15 @@
           {
             "group": "Bắt Đầu",
             "pages": [
-              "index",
-              "quickstart"
+              "start/index",
+              "start/quickstart"
             ]
           },
           {
             "group": "Tính Năng",
             "pages": [
-              "essentials/personal"
+              "essentials/personal",
+              "essentials/dialogue"
             ]
           }
         ]
