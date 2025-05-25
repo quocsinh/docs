@@ -8,6 +8,11 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.png",
+  "seo": {
+    "metatags": {
+      "robots": "noindex"
+    }
+  },
   "navigation": {
     "tabs": [
       {
