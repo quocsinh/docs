@@ -31,7 +31,8 @@
               "essentials/dialogue",
               "essentials/personal",
               "essentials/named",
-              "essentials/replacer"
+              "essentials/replacer",
+              "essentials/find-replace"
             ]
           }
         ]
