@@ -32,7 +32,8 @@
               "essentials/personal",
               "essentials/named",
               "essentials/replacer",
-              "essentials/find-replace"
+              "essentials/find-replace",
+              "essentials/build"
             ]
           }
         ]
