@@ -29,9 +29,9 @@
             "group": "Tính Năng",
             "pages": [
               "essentials/dialogue",
-              "essentials/personal",
               "essentials/named",
               "essentials/split",
+              "essentials/personal",
               "essentials/replacer",
               "essentials/find-replace",
               "essentials/build"
