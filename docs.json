@@ -31,9 +31,16 @@
               "essentials/dialogue",
               "essentials/personal",
               "essentials/named",
+              "essentials/split",
               "essentials/replacer",
               "essentials/find-replace",
               "essentials/build"
+            ]
+          },
+          {
+            "group": "Khác",
+            "pages": [
+              "other/other"
             ]
           }
         ]
