@@ -1,0 +1,38 @@
+---
+title: "Merge"
+description: "Hợp nhất giữa phiên bản cũ và phiên bản mới"
+---
+
+<img
+  src="/images/m_2.png"
+  alt="M 2 Pn"
+  title="M 2 Pn"
+  className="mx-auto"
+/>
+
+### Tạo cấu trúc cho việc hợp nhất
+
+<Steps>
+  <Step title="Tạo Thư Mục">
+    Ở thư mục gốc của game, tạo một thư mục đặt tên là "**merge**".
+  </Step>
+  <Step title="Đặt File">
+    Đặt 2 file vào đó.
+
+    File **_dialogue_new.renpy_** là file của phiên bản mới, đã được chạy tools và xuất ra.
+
+    File **_dialogue_old.renpy_** là file của phiên bản trước đó, đã được dịch hoàn chỉnh.
+  </Step>
+  <Step title="Tải File">
+    Tại giao diện chính của phần mềm, chọn **Merge Game Ren'py** và chọn đến thư mục gốc (**KHÔNG** phải thư mục merge đã tạo ở trên)
+  </Step>
+</Steps>
+
+![M 1 Pn](/images/m_1.png)
+
+Sau khi load file và hợp nhất thành công, giao diện phần mềm sẽ xuất hiện thêm một cửa sổ bên phải. Cửa sổ này thể hiện các thông tin cần thiết cho việc hợp nhất và những gì có trong phiên bản mới.
+
+Bảng thông tin chia làm 2 phần:
+
+- Phần 1: bao gồm các file mới và những nhân vật mới được thêm vào, cần xác định vai trò và update thêm cho phần nhân xưng.
+- Phần 2: bao gồm các file cũ đã bị sửa đổi bởi dev. Sau khi update lại các text, cần đánh dấu vào checkbox để lần sau còn biết đã sửa những gì.
