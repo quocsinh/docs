@@ -34,6 +34,7 @@
               "essentials/personal",
               "essentials/replacer",
               "essentials/find-replace",
+              "essentials/merge",
               "essentials/build"
             ]
           },
