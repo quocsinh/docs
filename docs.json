@@ -35,7 +35,8 @@
               "essentials/replacer",
               "essentials/find-replace",
               "essentials/merge",
-              "essentials/build"
+              "essentials/build",
+              "essentials/settings"
             ]
           },
           {
