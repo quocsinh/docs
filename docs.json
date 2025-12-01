@@ -36,6 +36,7 @@
               "essentials/find-replace",
               "essentials/merge",
               "essentials/build",
+              "essentials/custom",
               "essentials/settings"
             ]
           },
